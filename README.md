@@ -239,4 +239,4 @@ This repository serves as the official landing page for Phototastic. The softwar
 **Get the most recent version of Phototastic today!**
 
 ---
-**Last updated:** 2026-09-11 14:43:25 UTC
+**Last updated:** 2026-09-11 18:01:01 UTC
